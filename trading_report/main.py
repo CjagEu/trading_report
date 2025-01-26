@@ -82,5 +82,3 @@ print('Trades per symbol, date and time: ', trades_per_symbol_date_time)
 print('Trades per date: ', trades_per_date)
 print('Individual trades: ', individual_trades)
 #------------------------------------------------------
-
-print('ss')
